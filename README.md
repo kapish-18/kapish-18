@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student of Vellore Institute of Technology (VIT) vellore<br>My tech stack is MERN <br>My two main languages are C++ and python <br>I'm expanding my knowledge to ML and generative AI<br>Currently improving problem solving skills by solving questions on leetcode<br>
+I'm a student of Vellore Institute of Technology (VIT) vellore<br>My tech stack is MERN <br>My two main languages are C++ and Javascript <br>I'm expanding my knowledge to ML and generative AI<br>Currently improving problem solving skills by solving questions on leetcode<br>
 
 
 ## 🌐 Socials:

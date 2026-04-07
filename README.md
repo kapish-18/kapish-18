@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Kapish</h1>
-<h3 align="center">2nd Year CSE @ VIT Vellore • Building Real-World Systems</h3>
+<h3 align="center">BTech CSE (2nd Year) @ VIT Vellore • MERN Stack • Full Stack Engineering</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/kapish-tickoo">
@@ -8,22 +8,24 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kapishtickoo.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=kapish-18&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 2nd Year CSE @ VIT Vellore  
-- ⚡ Founder of **OneCart**  
-- 🧠 I learn by building production systems, not tutorials  
-- 🎯 Goal: Crack high-paying product/startup roles (10+ LPA)
+- 🎓 BTech CSE (2nd Year) @ VIT Vellore  
+- ⚡ Founder of **OneCart**
+- 🧠 I learn by building systems used by real people  
+- 🛠️ Focused on full stack engineering, scalability, and real-world problem solving  
+- 📍 Currently building and scaling products, not just projects  
 
 ---
 
-## 🛒 OneCart — What I Built
+## 🛒 OneCart — Production System
 
-A **multi-outlet campus food delivery platform** live at VIT.
+A **multi-outlet campus food delivery platform** built and deployed during my 2nd year.
 
 Users can:
 - Order from multiple outlets  
@@ -31,33 +33,33 @@ Users can:
 - Pay once  
 - Get a single delivery  
 
-> Something Swiggy/Zomato structurally don’t support.
+> A system-level problem traditional apps(zom*to,sw*ggy) don’t solve.
 
 ### 💡 Core Insight
-7.5M+ street vendors in India are excluded from platforms due to tech barriers.
+Millions of small vendors are excluded from platforms due to tech barriers.
 
 **Solution:**  
 → PDF menus + free-text ordering  
-→ Zero tech required for vendors  
+→ Zero tech requirement on vendor side  
 
 ---
 
 ## ⚙️ What's Live
 
 - 📱 React Native Customer App (ordering, tracking, payments)
-- 🚴 Delivery Partner App (earnings, notifications, acceptance)
+- 🚴 Delivery Partner App (earnings, notifications)
 - 🖥️ Admin Dashboard (analytics, payouts, live orders)
 - 🌐 Backend API (Node.js + Express + MongoDB) handling real transactions
 
 ---
 
-## 🧠 Real Engineering Problems Solved
+## 🧠 Engineering Highlights
 
-- ⚡ Atomic order acceptance using `findOneAndUpdate`
-- 🔐 Razorpay HMAC-SHA256 payment verification
-- 📲 Push notifications via Firebase + Expo
-- 📧 Email provider migration (SMTP → Brevo API)
-- 🧵 Race condition fix in delivery cancellation flow
+- ⚡ Atomic order locking using MongoDB `findOneAndUpdate`
+- 🔐 Razorpay HMAC-SHA256 verification (payment integrity)
+- 📲 Push notifications (Firebase + Expo)
+- 📧 Email infra migration (SMTP → API-based)
+- 🧵 Fixed real-world race conditions in order lifecycle
 
 🔗 **Project Repo:**  
 👉 https://github.com/kapish-18/ONECART
@@ -66,23 +68,12 @@ Users can:
 
 ## 🛠️ Tech Stack
 
-**Mobile:**  
-React Native (Expo), Notifications, AsyncStorage  
-
-**Frontend:**  
-React (Vite), TailwindCSS  
-
-**Backend:**  
-Node.js, Express.js, MongoDB, Mongoose  
-
-**Payments & Auth:**  
-Razorpay, HMAC Verification, OTP (Brevo)  
-
-**Infrastructure:**  
-MongoDB Atlas, Render, Firebase, EAS  
-
-**Languages:**  
-JavaScript, TypeScript, C++  
+**Mobile:** React Native (Expo), Notifications  
+**Frontend:** React (Vite), TailwindCSS  
+**Backend:** Node.js, Express.js, MongoDB, Mongoose  
+**Infra:** Render, Firebase, MongoDB Atlas  
+**Payments:** Razorpay  
+**Languages:** JavaScript, TypeScript, C++  
 
 ---
 
@@ -96,11 +87,25 @@ JavaScript, TypeScript, C++
 
 ---
 
+## 🏆 GitHub Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=kapish-18&theme=darkhub&no-frame=true&margin-w=10)
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kapish-18/kapish-18/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🧩 Current Focus
 
 - Scaling OneCart 🚀  
-- Deepening backend + system design skills  
-- Building more real-world products  
+- Full stack systems & performance  
+- Building production-grade products  
 
 ---
 

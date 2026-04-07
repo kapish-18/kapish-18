@@ -6,7 +6,7 @@ I don't wait until graduation to ship. I build production systems that real peop
 
 ---
 
-## 🛒 OneCart — What I'm Building
+## 🛒 OneCart — What I'm Built
 
 A multi-outlet campus food delivery platform live at VIT. Users order from multiple outlets in one checkout, one payment, one delivery — something Swiggy and Zomato structurally can't do.
 

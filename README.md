@@ -33,7 +33,7 @@ Users can:
 - Pay once  
 - Get a single delivery  
 
-> A system-level problem traditional apps(zom*to,sw*ggy) don’t solve.
+> A system-level problem traditional aggregators don’t solve.
 
 ### 💡 Core Insight
 Millions of small vendors are excluded from platforms due to tech barriers.
@@ -87,9 +87,9 @@ Millions of small vendors are excluded from platforms due to tech barriers.
 
 ---
 
-## 🏆 GitHub Achievements
+## 🧠 LeetCode Stats
 
-![](https://github-profile-trophy.vercel.app/?username=kapish-18&theme=darkhub&no-frame=true&margin-w=10)
+![](https://leetcard.jacoblin.cool/IaEHKPF0Hy?theme=dark&font=Baloo&ext=heatmap)
 
 ---
 

@@ -1,65 +1,116 @@
-# Hey, I'm Kapish 👋
+<h1 align="center">Hey 👋, I'm Kapish</h1>
+<h3 align="center">2nd Year CSE @ VIT Vellore • Building Real-World Systems</h3>
 
-**2nd year CSE @ VIT Vellore · Founder of OneCart · Building real things**
+<p align="center">
+  <a href="https://linkedin.com/in/kapish-tickoo">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kapishtickoo.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-I don't wait until graduation to ship. I build production systems that real people depend on, right now.
+---
+
+## 🚀 About Me
+
+- 🎓 2nd Year CSE @ VIT Vellore  
+- ⚡ Founder of **OneCart**  
+- 🧠 I learn by building production systems, not tutorials  
+- 🎯 Goal: Crack high-paying product/startup roles (10+ LPA)
 
 ---
 
 ## 🛒 OneCart — What I Built
 
-A multi-outlet campus food delivery platform live at VIT. Users order from multiple outlets in one checkout, one payment, one delivery — something Swiggy and Zomato structurally can't do.
+A **multi-outlet campus food delivery platform** live at VIT.
 
-**The real insight:** 7.5 million street food vendors in India are locked out of existing platforms because they need zero tech to operate. OneCart onboards them with PDF menus and free-text ordering. Zero tech requirement on the vendor side is the moat.
+Users can:
+- Order from multiple outlets  
+- Checkout once  
+- Pay once  
+- Get a single delivery  
 
-**What's live:**
-- React Native customer app — outlet selection, multi-cart, Razorpay payments, real-time order tracking
-- React Native delivery partner app — order acceptance, earnings tracking, push notifications
-- Vite React admin dashboard — live orders, analytics, payout tracker with UPI QR codes per partner
-- Node.js + Express + MongoDB REST API — deployed on Render, processing real transactions
+> Something Swiggy/Zomato structurally don’t support.
 
-**Real engineering problems solved in production:**
-- Atomic order acceptance via MongoDB `findOneAndUpdate` — prevents two delivery partners from accepting the same order simultaneously
-- Razorpay payment verification with HMAC-SHA256 signature — cryptographic proof that payment is real before order status updates
-- Push notifications on Android via Firebase + Expo — hours of `metadata.bin` corruption and Gradle issues to get this working
-- Email provider migration mid-production — Gmail SMTP timed out on Render, Resend had sandbox limits, migrated to Brevo API
-- Delivery cancellation race condition — local state was clearing before server confirmation, fixed by only clearing after confirmed 200
+### 💡 Core Insight
+7.5M+ street vendors in India are excluded from platforms due to tech barriers.
 
-→ **[github.com/kapish-18/ONECART](https://github.com/kapish-18/ONECART)**
+**Solution:**  
+→ PDF menus + free-text ordering  
+→ Zero tech required for vendors  
+
+---
+
+## ⚙️ What's Live
+
+- 📱 React Native Customer App (ordering, tracking, payments)
+- 🚴 Delivery Partner App (earnings, notifications, acceptance)
+- 🖥️ Admin Dashboard (analytics, payouts, live orders)
+- 🌐 Backend API (Node.js + Express + MongoDB) handling real transactions
+
+---
+
+## 🧠 Real Engineering Problems Solved
+
+- ⚡ Atomic order acceptance using `findOneAndUpdate`
+- 🔐 Razorpay HMAC-SHA256 payment verification
+- 📲 Push notifications via Firebase + Expo
+- 📧 Email provider migration (SMTP → Brevo API)
+- 🧵 Race condition fix in delivery cancellation flow
+
+🔗 **Project Repo:**  
+👉 https://github.com/kapish-18/ONECART
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Mobile:** React Native (Expo), Expo Notifications, AsyncStorage, React Navigation
+**Mobile:**  
+React Native (Expo), Notifications, AsyncStorage  
 
-**Frontend:** Vite React, TailwindCSS
+**Frontend:**  
+React (Vite), TailwindCSS  
 
-**Backend:** Node.js, Express.js, MongoDB + Mongoose, REST API
+**Backend:**  
+Node.js, Express.js, MongoDB, Mongoose  
 
-**Payments & Auth:** Razorpay (live), HMAC-SHA256 verification, OTP auth via Brevo
+**Payments & Auth:**  
+Razorpay, HMAC Verification, OTP (Brevo)  
 
-**Infrastructure:** MongoDB Atlas, Render, Firebase (FCM), EAS Build
+**Infrastructure:**  
+MongoDB Atlas, Render, Firebase, EAS  
 
-**Languages:** JavaScript, TypeScript, C++
-
-**Other:** Git, GitHub, Python (NumPy, Pandas, scikit-learn)
+**Languages:**  
+JavaScript, TypeScript, C++  
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=kapish-18&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=kapish-18&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kapish-18&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=kapish-18&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com?user=kapish-18&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kapish-18&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-## 🌐 Find Me
+## 🧩 Current Focus
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kapish-tickoo)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kapishtickoo.dev@gmail.com)
+- Scaling OneCart 🚀  
+- Deepening backend + system design skills  
+- Building more real-world products  
 
 ---
 
-*"The best way to learn systems is to build one that real people depend on."*
+## 📬 Reach Out
+
+- 💼 LinkedIn: https://linkedin.com/in/kapish-tickoo  
+- 📧 Email: kapishtickoo.dev@gmail.com  
+
+---
+
+## ⚡ Philosophy
+
+> "The best way to learn systems is to build one that real people depend on."

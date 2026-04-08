@@ -19,7 +19,7 @@
 - ⚡ Founder of **OneCart**
 - 🧠 I learn by building systems used by real people  
 - 🛠️ Focused on full stack engineering, scalability, and real-world problem solving  
-- 📍 Currently building and scaling products, not just projects  
+- 📍 Currently delivering real orders and processing real payments at VIT , building before graduating 
 
 ---
 

@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 - 🎓 BTech CSE (2nd Year) @ VIT Vellore  
-- ⚡ Founder of **OneCart**
+- ⚡ Built **OneCart**
 - 🧠 I learn by building systems used by real people  
 - 🛠️ Focused on full stack engineering, scalability, and real-world problem solving  
 - 📍 Currently delivering real orders and processing real payments at VIT , building before graduating 

@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Kapish</h1>
-<h3 align="center">BTech CSE (2nd Year) @ VIT Vellore • MERN Stack • Full Stack Engineering</h3>
+<h3 align="center">BTech CSE (2nd Year) @ VIT Vellore • SWE Intern @ Vyntelligence • MERN Stack • Full Stack Engineering</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/kapish-tickoo">
@@ -15,11 +15,11 @@
 
 ## 🚀 About Me
 
-- 🎓 BTech CSE (2nd Year) @ VIT Vellore  
-- ⚡ Built **OneCart**
-- 🧠 I learn by building systems used by real people  
-- 🛠️ Focused on full stack engineering, scalability, and real-world problem solving  
-- 📍 Currently delivering real orders and processing real payments at VIT , building before graduating 
+- 🎓 BTech CSE (2nd Year) @ VIT Vellore
+- 💼 SWE Intern @ Vyntelligence (Series B, UK) — building synthetic data ingestion pipelines in Python for AI workflows
+- ⚡ Built **OneCart** — a live multi-vendor food delivery platform deployed at VIT
+- 🧠 I learn by building systems used by real people
+- 🛠️ Focused on full stack engineering, scalability, and real-world problem solving
 
 ---
 
@@ -28,19 +28,20 @@
 A **multi-outlet campus food delivery platform** built and deployed during my 2nd year.
 
 Users can:
-- Order from multiple outlets  
-- Checkout once  
-- Pay once  
-- Get a single delivery  
+- Order from multiple outlets
+- Checkout once
+- Pay once
+- Get a single delivery
 
-> A system-level problem traditional aggregators(zomato/swiggy) don’t solve.
+> A system-level problem traditional aggregators (Zomato/Swiggy) don't solve.
 
 ### 💡 Core Insight
+
 Millions of small vendors are excluded from platforms due to tech barriers.
 
 **Solution:**  
 → PDF menus + free-text ordering  
-→ Zero tech requirement on vendor side  
+→ Zero tech requirement on vendor side
 
 ---
 
@@ -73,16 +74,14 @@ Millions of small vendors are excluded from platforms due to tech barriers.
 **Backend:** Node.js, Express.js, MongoDB, Mongoose  
 **Infra:** Render, Firebase, MongoDB Atlas  
 **Payments:** Razorpay  
-**Languages:** JavaScript, TypeScript, C++  
+**Languages:** JavaScript, TypeScript, C++, Python
 
 ---
 
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=kapish-18&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
 ![](https://streak-stats.demolab.com?user=kapish-18&theme=dark&hide_border=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kapish-18&layout=compact&theme=dark&hide_border=true)
 
 ---
@@ -103,16 +102,17 @@ Millions of small vendors are excluded from platforms due to tech barriers.
 
 ## 🧩 Current Focus
 
-- Scaling OneCart 🚀  
-- Full stack systems & performance  
-- Building production-grade products  
+- 🤖 Interning @ Vyntelligence — Python pipelines for AI/ML data workflows
+- Scaling OneCart 🚀
+- Full stack systems & performance
+- Building production-grade products before graduating
 
 ---
 
 ## 📬 Reach Out
 
-- 💼 LinkedIn: https://linkedin.com/in/kapish-tickoo  
-- 📧 Email: kapishtickoo.dev@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/kapish-tickoo
+- 📧 Email: kapishtickoo.dev@gmail.com
 
 ---
 

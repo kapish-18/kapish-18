@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Kapish</h1>
-<h3 align="center">BTech CSE (2nd Year) @ VIT Vellore • SWE Intern @ Vyntelligence • MERN Stack • Full Stack Engineering</h3>
+<h3 align="center">BTech CSE @ VIT Vellore • Former SWE Intern @ Vyntelligence • Full Stack & Data Engineering</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/kapish-tickoo">
@@ -15,17 +15,29 @@
 
 ## 🚀 About Me
 
-- 🎓 BTech CSE (2nd Year) @ VIT Vellore
-- 💼 SWE Intern @ Vyntelligence (Series B, UK) — building synthetic data ingestion pipelines in Python for AI workflows
+- 🎓 BTech CSE @ VIT Vellore
+- 💼 Former SWE Intern @ Vyntelligence (Series B, UK) — engineered resilient Python ETL pipelines for AI demo environments
 - ⚡ Built **OneCart** — a live multi-vendor food delivery platform deployed at VIT
 - 🧠 I learn by building systems used by real people
-- 🛠️ Focused on full stack engineering, scalability, and real-world problem solving
+- 🛠️ Focused on full-stack engineering, backend reliability, and real-world problem solving
 
 ---
 
-## 🛒 OneCart — Multi Outlet Food Delivery Production System
+## 🏢 SWE Internship — Vyntelligence (London, Remote)
 
-A **multi-outlet campus food delivery platform** built and deployed during my 2nd year.
+Worked on an initiative to revamp the company's enterprise product demo environments, replacing fragmented, non-contextual test data with high-fidelity simulations. 
+
+I collaborated closely with a fellow engineering intern (who built the synthetic data generator) while I **owned and engineered the 3-tier Python ETL ingestion and integration pipeline**:
+
+- ⚙️ **Data Pipeline:** Built a modular pipeline to process and ingest highly nested JSON records against live servers with a 100% success rate.
+- 🛡️ **Resilience & Integrity:** Implemented `urllib3` custom HTTP adapters to handle transient network errors and API rate limits (HTTP 429), and migrated validation to Pydantic schemas for fail-fast data integrity.
+- ☁️ **Cloud Integration:** Formed direct AWS S3 integrations to manage complex multipart binary media uploads (.mp4, .jpg) seamlessly from the local pipeline.
+
+---
+
+## 🛒 OneCart — Multi-Outlet Food Delivery Production System
+
+A **multi-outlet campus food delivery platform** built and deployed during my college semesters.
 
 Users can:
 - Order from multiple outlets
@@ -41,20 +53,16 @@ Millions of small vendors are excluded from platforms due to tech barriers.
 
 **Solution:**  
 → PDF menus + free-text ordering  
-→ Zero tech requirement on vendor side
+→ Zero tech requirement on the vendor side
 
----
-
-## ⚙️ What's Live
+### ⚙️ What's Live
 
 - 📱 React Native Customer App (ordering, tracking, payments)
 - 🚴 Delivery Partner App (earnings, notifications)
 - 🖥️ Admin Dashboard (analytics, payouts, live orders)
 - 🌐 Backend API (Node.js + Express + MongoDB) handling real transactions
 
----
-
-## 🧠 Engineering Highlights
+### 🧠 Engineering Highlights
 
 - ⚡ Atomic order locking using MongoDB `findOneAndUpdate`
 - 🔐 Razorpay HMAC-SHA256 verification (payment integrity)
@@ -69,12 +77,11 @@ Millions of small vendors are excluded from platforms due to tech barriers.
 
 ## 🛠️ Tech Stack
 
-**Mobile:** React Native (Expo), Notifications  
-**Frontend:** React (Vite), TailwindCSS  
-**Backend:** Node.js, Express.js, MongoDB, Mongoose  
-**Infra:** Render, Firebase, MongoDB Atlas  
-**Payments:** Razorpay  
-**Languages:** JavaScript, TypeScript, C++, Python
+**Languages:** JavaScript, TypeScript, Python, C++  
+**Backend & Data:** Node.js, Express.js, MongoDB, Mongoose, Pydantic  
+**Mobile & Frontend:** React Native (Expo), React (Vite), TailwindCSS  
+**Infra & Cloud:** AWS (S3), Firebase, Render, MongoDB Atlas  
+**Payments & Tools:** Razorpay, Git/GitHub, Postman  
 
 ---
 
@@ -102,10 +109,9 @@ Millions of small vendors are excluded from platforms due to tech barriers.
 
 ## 🧩 Current Focus
 
-- 🤖 Interning @ Vyntelligence — Python pipelines for AI/ML data workflows
-- Scaling OneCart 🚀
-- Full stack systems & performance
-- Building production-grade products before graduating
+- 🎯 Cracking advanced Data Structures & Algorithms (DSA) and System Design
+- 🚀 Expanding full-stack web and mobile development capabilities
+- 🛠️ Building production-grade, highly reliable products before graduating
 
 ---
 

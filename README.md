@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Kapish</h1>
-<h3 align="center">BTech CSE @ VIT Vellore • Former SWE Intern @ Vyntelligence • Full Stack & Data Engineering</h3>
+<h3 align="center">BTech CSE @ VIT Vellore • Former SWE Intern @ Vyntelligence • Full Stack, Mobile & Data Engineering</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/kapish-tickoo">
@@ -16,10 +16,11 @@
 ## 🚀 About Me
 
 - 🎓 BTech CSE @ VIT Vellore
-- 💼 Former SWE Intern @ Vyntelligence (Series B, UK) — engineered resilient Python ETL pipelines for AI demo environments
-- ⚡ Built **OneCart** — a live multi-vendor food delivery platform deployed at VIT
+- 💼 Former SWE Intern @ Vyntelligence (Series B, UK) — engineered resilient Python ETL pipelines for AI workflows
+- 🏋️‍♂️ Built **TrueFit** — an offline-first intelligent strength training app driven by a custom relational database design and algorithmic recommendation engine
+- ⚡ Built **OneCart** — a live multi-vendor food delivery platform deployed at VIT campus
 - 🧠 I learn by building systems used by real people
-- 🛠️ Focused on full-stack engineering, backend reliability, and real-world problem solving
+- 🛠️ Focused on full-stack architecture, system reliability, and real-world problem solving
 
 ---
 
@@ -29,9 +30,24 @@ Worked on an initiative to revamp the company's enterprise product demo environm
 
 I collaborated closely with a fellow engineering intern (who built the synthetic data generator) while I **owned and engineered the 3-tier Python ETL ingestion and integration pipeline**:
 
-- ⚙️ **Data Pipeline:** Built a modular pipeline to process and ingest highly nested JSON records against live servers with a 100% success rate.
-- 🛡️ **Resilience & Integrity:** Implemented `urllib3` custom HTTP adapters to handle transient network errors and API rate limits (HTTP 429), and migrated validation to Pydantic schemas for fail-fast data integrity.
-- ☁️ **Cloud Integration:** Formed direct AWS S3 integrations to manage complex multipart binary media uploads (.mp4, .jpg) seamlessly from the local pipeline.
+- ⚙️ **Data Pipeline:** Built a modular pipeline to process and ingest 4,000+ highly nested JSON records against live servers with a 100% success rate.
+- 🛡️ **Resilience & Integrity:** Implemented `urllib3` and `requests.Session` custom HTTP adapters to handle transient network errors and API rate limits (HTTP 429), automating lifecycle state syncs in real-time.
+- ☁️ **Cloud & Analytics:** Built direct AWS S3 integrations to manage complex multipart binary media uploads via automated PUT requests and configured QuickSight dashboards to analyze operational data patterns.
+- 🧪 **Data Guardrails & Testing:** Migrated manual pre-flight validation to Pydantic schemas to eliminate malformed data runtime faults, and developed a unit testing suite using `patch` and `mock_open` to validate retry and upload mechanics safely off-cloud.
+
+---
+
+## 🏋️‍♂️ TrueFit — Offline-First Intelligent Strength Training App
+
+A fully offline mobile application designed to manage centralized fitness programs, workout sessions, and personalized data analytics.
+
+- 📱 **Architecture:** Developed with React Native (Expo SDK 56) utilizing file-based routing (`Expo Router`) and `Zustand` for performant, centralized state management across local routines.
+- 🗄️ **Relational Database Design:** Architected a normalized relational schema in SQLite containing 10+ tables with strict foreign keys and cascading deletes. Protected application security behind a centralized DAO layer using parameterized queries to completely eliminate SQL injection vectors.
+- 🧠 **Algorithmic Engine:** Engineered an 8-module recommendation engine covering progressive overload, fatigue scoring, deload planning, joint-safety validation, and volume analysis.
+- 🔢 **Performance Modeling:** Implemented a double-progression methodology calculation engine leveraging the Epley 1RM formula to automatically process historical performance data and yield targeted weight/rep markers.
+
+🔗 **Project Repo:**  
+👉 https://github.com/kapish-18/TrueFit
 
 ---
 
@@ -45,7 +61,7 @@ Users can:
 - Pay once
 - Get a single delivery
 
-> A system-level problem traditional aggregators (Zomato/Swiggy) don't solve.
+> A system-level problem traditional aggregators (Zomato/Swiggy) don't solve on campus.
 
 ### 💡 Core Insight
 
@@ -64,11 +80,10 @@ Millions of small vendors are excluded from platforms due to tech barriers.
 
 ### 🧠 Engineering Highlights
 
-- ⚡ Atomic order locking using MongoDB `findOneAndUpdate`
-- 🔐 Razorpay HMAC-SHA256 verification (payment integrity)
-- 📲 Push notifications (Firebase + Expo)
-- 📧 Email infra migration (SMTP → API-based)
-- 🧵 Fixed real-world race conditions in order lifecycle
+- ⚡ Atomic order locking using MongoDB `findOneAndUpdate` to completely eliminate concurrent order lifecycle race conditions.
+- 🔐 Razorpay HMAC-SHA256 signature verification to ensure absolute payment infrastructure integrity.
+- 📲 Real-time multi-app alerting powered by Firebase and Expo push notifications.
+- 📧 Eliminated external domain dependencies for authentication workflows by migrating to Brevo's API for zero-cost transactional OTP delivery.
 
 🔗 **Project Repo:**  
 👉 https://github.com/kapish-18/ONECART
@@ -78,10 +93,10 @@ Millions of small vendors are excluded from platforms due to tech barriers.
 ## 🛠️ Tech Stack
 
 **Languages:** JavaScript, TypeScript, Python, C++  
-**Backend & Data:** Node.js, Express.js, MongoDB, Mongoose, Pydantic  
-**Mobile & Frontend:** React Native (Expo), React (Vite), TailwindCSS  
-**Infra & Cloud:** AWS (S3), Firebase, Render, MongoDB Atlas  
-**Payments & Tools:** Razorpay, Git/GitHub, Postman  
+**Backend & Data Engineering:** Node.js, Express.js, REST APIs, ETL Pipelines, Pydantic, urllib3, requests, unittest.mock  
+**Mobile & Frontend:** React Native (Expo), Expo Router, Zustand, React (Vite), TailwindCSS, Offline-First Architecture  
+**Database & Cloud:** MongoDB, SQLite, Mongoose, AWS (S3, QuickSight), Firebase, MongoDB Atlas  
+**Payments & Tools:** Razorpay, Brevo API, Git/GitHub, Postman, Atomic DB Operations, Relational Schema Design  
 
 ---
 
@@ -109,9 +124,9 @@ Millions of small vendors are excluded from platforms due to tech barriers.
 
 ## 🧩 Current Focus
 
-- 🎯 Cracking advanced Data Structures & Algorithms (DSA) and System Design
-- 🚀 Expanding full-stack web and mobile development capabilities
-- 🛠️ Building production-grade, highly reliable products before graduating
+- 🎯 Mastering advanced Data Structures & Algorithms (DSA) and high-level System Design
+- 🚀 Deepening architecture paradigms (Offline-First, Distributed State, High-Throughput Ingestion)
+- 🛠️ Delivering enterprise-grade, highly optimized software before graduating
 
 ---
 

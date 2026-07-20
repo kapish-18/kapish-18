@@ -108,12 +108,6 @@ Millions of small vendors are excluded from platforms due to tech barriers.
 
 ---
 
-## 🧠 LeetCode Stats
-
-![](https://leetcard.jacoblin.cool/IaEHKPF0Hy?theme=dark&font=Baloo&ext=heatmap)
-
----
-
 ## 🐍 Contribution Graph
 
 <p align="center">

@@ -21,7 +21,7 @@
 - ⚡ Built **OneCart** — a live multi-vendor food delivery platform deployed at VIT campus
 - 🧠 I learn by building systems used by real people
 - 🛠️ Focused on full-stack architecture, system reliability, and real-world problem solving
-
+- My portfolio -> https://kapish18-portfolio.vercel.app/
 ---
 
 ## 🏢 SWE Internship — Vyntelligence (London, Remote)
